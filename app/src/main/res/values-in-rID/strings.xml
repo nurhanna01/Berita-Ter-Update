@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Berita Ter-Update</string>
+    <string name="find">Temukan Berita yang Ingin Kamu Cari</string>
+    <string name="keyword">Masukan Kata Kunci</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet.</string>
+    <string name="no_news">Tidak ada berita ditemukan</string>
+    <string name="input">Cari</string>
+</resources>

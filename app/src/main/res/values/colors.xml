@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Warna teks untuk ... berita di list item -->
+    <color name="textColorBeritaA">#B4BAC0</color>
+
+    <!-- Warna teks untuk judul di list item -->
+    <color name="textColorBeritaB">#2B3D4D</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="biru">#01579b</color>
+
+    <color name="birutua">#3869fa</color>
+
+    <color name="abu">#b2ebf2</color>
+
+    <color name="category_numbers">#2F4F4F</color>
+
+    <color name="pink">#99ccff</color>
+
+</resources>

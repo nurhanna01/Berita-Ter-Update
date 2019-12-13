@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Updated News</string>
+
+
+    <!-- Teks yang ditampilkan di daftar jika tidak ada berita[CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">There is no internet connection.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="indo" translatable="false">Indo</string>
+    <string name="intern" translatable="false">US</string>
+    <string name="input">Search</string>
+
+    <string name="find">Find the News That You want to Looking For</string>
+
+    <string name="keyword">Enter Keyword</string>
+
+</resources>
